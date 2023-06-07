@@ -27,4 +27,9 @@ An EEG Hyperscanning study creat by Hao-Che (Howard) Hsu
 * ASR (k = 20)
 * ICA
 * ICLabel (keep brain and others)
-* Extract epoch [Keyboard session (-0.3 ~ 1.2s), Gaze session (-3 ~ 10s)]
+* Extract epoch Keyboard session (-0.3 ~ 1.2s), Gaze session (-3 ~ 10s)
+
+# ICA components (use ICLabel to classify)
+<img width="808" alt="image" src="https://github.com/tingyu890808/BCI_final_project/assets/120452235/e13541ad-0c8d-4b6e-a617-69d7eca71e14">
+
+# Literature review
