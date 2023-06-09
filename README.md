@@ -41,9 +41,11 @@ An EEG Hyperscanning study creat by Hao-Che (Howard) Hsu
    Furthermore, it is necessary to combine the interaction between individuals with electroencephalogram (EEG). Therefore, this article, co-authored by M. Balconi and G. Fronda, was published in the journal "Culture and Brain" in 2022. Titled "Inter-brain EEG connectivity in hyperscanning for Italian and French gestures: the culture-related nonverbal language," the article explores the application of hyperscanning technique in studying the culture-related nonverbal communication of Italian and French gestures. The study utilized EEG hyperscanning method to investigate inter-brain connectivity during nonverbal communication between individuals. The research focused on gesture expressions in Italian and French cultures and explored the differences and similarities in nonverbal communication between different cultures. It is worth noting that during the experiment, participants engage in both verbal and nonverbal communication. For example, eye contact and gestures are common forms of nonverbal communication in social interactions, especially in hyperscanning studies. Therefore, exploring these factors is inevitable, and the integration of communication, gestures, and EEG activity in this article provides valuable insights and assistance for our research.
 
 # Results
-Use LDA, Adaboost, Bagging, Random Forest, SVM to classify the data.
+
 First, we used the ERP data to classify.
 0 respesent the "player" of **single mode** ; while 1 represent the "observer" of **single mode**.
+
+We used Kfold(k = 10) to apply different models(LDA, Adaboost, Bagging, Random Forest, SVM),and repeated 10 times. Last, we averaged the confusion matrix and the accuracy score of each times.
 
 <img width="900" alt="image" src="https://github.com/tingyu890808/BCI_final_project/assets/120452235/805525fb-674a-471d-afd8-abd2dce4026c">
 
