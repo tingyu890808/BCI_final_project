@@ -45,10 +45,10 @@ We used the band power of θ band of Fz and α band of Pz ratio.
 
 # Results
 
+We used Kfold(k = 10) to apply different models(LDA, Adaboost, Bagging, Random Forest, SVM),and repeated 10 times. Last, we averaged the confusion matrix and the accuracy score of each times.
+
 First, we used the ERP data to classify.
 0 respesent the "player" of **single mode** ; while 1 represent the "observer" of **single mode**.
-
-We used Kfold(k = 10) to apply different models(LDA, Adaboost, Bagging, Random Forest, SVM),and repeated 10 times. Last, we averaged the confusion matrix and the accuracy score of each times.
 
 <img width="900" alt="image" src="https://github.com/tingyu890808/BCI_final_project/assets/120452235/805525fb-674a-471d-afd8-abd2dce4026c">
 
