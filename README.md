@@ -66,7 +66,7 @@ Second, we used the mental workload data to classify.
 
 <img width="900" alt="image" src="https://github.com/tingyu890808/BCI_final_project/assets/120452235/92cf1792-05f9-4020-96af-3d7525521155">
 
-<img width="900" alt="image" src="https://github.com/tingyu890808/BCI_final_project/assets/120452235/b57d6830-5d64-4be0-ac9e-7b863019c03a">
+<img width="90" alt="截圖 2023-06-09 下午2 06 41" src="https://github.com/tingyu890808/BCI_final_project/assets/120452235/7569bdf5-f5d9-42bd-bd30-895f90fa3cae">
 
 <img width="900" alt="image" src="https://github.com/tingyu890808/BCI_final_project/assets/120452235/40775996-71eb-4c09-8a9a-da107fdb167f">
 
