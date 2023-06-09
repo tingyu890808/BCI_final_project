@@ -62,7 +62,7 @@ We used the band power of θ band of Fz and α band of Pz ratio.
     * This 2009 publication, "Estimating brain load from the EEG," aims to estimate cognitive load using electroencephalography (EEG). The study proposes a method based on EEG signals to assess brain load, providing guidance for the application of EEG in evaluating cognitive load.
     
     * The 2018 publication, "Use of biotechnological devices in the quantification of psychophysiological workload of professional chess players," discusses the application of biotechnological devices in quantifying psychophysiological workload among professional chess players. It offers a method for assessing psychophysiological workload.
-    * 
+    
     * The 2014 publication, "Measuring neurophysiological signals in aircraft pilots and car drivers for the assessment of mental workload, fatigue, and drowsiness," focuses on measuring neurophysiological signals in pilots and drivers to evaluate mental workload, fatigue, and drowsiness. It highlights the significance and methods of using neurophysiological signals and psychological assessment for evaluating performance.
     
     These three articles cover research in different domains, using neurosciences and biotechnological devices to explore methods and applications for assessing cognitive load, psychophysiological workload, and fatigue. They provide valuable insights and references for evaluating participants in our experiments.
