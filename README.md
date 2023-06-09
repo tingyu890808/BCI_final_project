@@ -32,7 +32,10 @@ An EEG Hyperscanning study creat by Hao-Che (Howard) Hsu
 # ICA components (use ICLabel to classify)
 <img width="808" alt="image" src="https://github.com/tingyu890808/BCI_final_project/assets/120452235/e13541ad-0c8d-4b6e-a617-69d7eca71e14">
 
-# The calculation of the mental workloa
+# Video of data preprocessing
+https://youtu.be/osBCvM-am-k
+
+# The calculation of the mental workload
 We used the band power of θ band of Fz and α band of Pz ratio.
 
 # Literature review
