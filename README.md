@@ -32,6 +32,9 @@ An EEG Hyperscanning study creat by Hao-Che (Howard) Hsu
 # ICA components (use ICLabel to classify)
 <img width="808" alt="image" src="https://github.com/tingyu890808/BCI_final_project/assets/120452235/e13541ad-0c8d-4b6e-a617-69d7eca71e14">
 
+# The calculation of the mental workloa
+We used the band power of θ band of Fz and α band of Pz ratio.
+
 # Literature review
 
    It is well known that "cooperation" and "competition" are common in hyperscanning research. Cooperation interaction occurs when individuals or groups collaborate and pool their efforts to achieve common goals. Our study also involves related content. The article titled "Hyperscanning: a valid method to study neural inter-brain underpinnings of social interaction" by A. Czeszumski et al. published in the journal "Frontiers in Human Neuroscience" in 2020 explores hyperscanning as a valid method for studying the neural mechanisms of social interaction. The article highlights that hyperscanning allows simultaneous measurement of brain activity from multiple individuals, enabling the investigation of real-time dynamic relationships between their brains. The significant advantage of hyperscanning is its ability to examine the internal and inter-brain neural relationships between two or more interacting brains. This technique provides a new approach to address the complexity of joint action, including its spontaneity, reciprocity, and multimodality, which pose significant challenges to neuroscience research. These findings are highly relevant to our study as we have a project specifically focused on exploring multi-brain neural activity.
